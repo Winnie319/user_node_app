@@ -1,0 +1,1 @@
+A basic user application built with Node.js and MongoDB.
